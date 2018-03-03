@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PruebaElipse", "PruebaElipse\PruebaElipse.vcxproj", "{3D94448F-2DD5-4286-85F0-0644095C28DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D94448F-2DD5-4286-85F0-0644095C28DC}.Debug|x64.ActiveCfg = Debug|x64
+		{3D94448F-2DD5-4286-85F0-0644095C28DC}.Debug|x64.Build.0 = Debug|x64
+		{3D94448F-2DD5-4286-85F0-0644095C28DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D94448F-2DD5-4286-85F0-0644095C28DC}.Debug|x86.Build.0 = Debug|Win32
+		{3D94448F-2DD5-4286-85F0-0644095C28DC}.Release|x64.ActiveCfg = Release|x64
+		{3D94448F-2DD5-4286-85F0-0644095C28DC}.Release|x64.Build.0 = Release|x64
+		{3D94448F-2DD5-4286-85F0-0644095C28DC}.Release|x86.ActiveCfg = Release|Win32
+		{3D94448F-2DD5-4286-85F0-0644095C28DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F297F76-0D7C-4214-B2C4-EF6C6E6CF633}
+	EndGlobalSection
+EndGlobal
